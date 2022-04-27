@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="190px" height="190px" viewBox="0 0 190 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01 Home / Vectores / Subibaja / Azul</title>
+    <defs>
+        <polygon id="path-1" points="0.000404255319 0.0204751773 188.487142 0.0204751773 188.487142 189 0.000404255319 189"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Final-/-Drop-B" transform="translate(-250.000000, -588.000000)">
+            <g id="01-Home-/-Vectores-/-Subibaja-/-Azul" transform="translate(250.110249, 588.416302)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M94.2430993,0.0204751773 C146.292319,0.0204751773 188.487142,79.1399787 188.487142,118.227426 C188.487142,157.314872 146.292319,189.000404 94.2430993,189.000404 C42.1938794,189.000404 0.000404255319,157.313525 0.000404255319,118.227426 C0.000404255319,79.1399787 42.1938794,0.0204751773 94.2430993,0.0204751773" id="Fill-1" fill="#85DADE" mask="url(#mask-2)"></path>
+                </g>
+                <text id="Costs-go-low" font-family="RightGrotesk-SemiExpanded, Right Grotesk" font-size="35" font-weight="500" letter-spacing="-0.544444444" fill="#000000">
+                    <tspan x="45.8220486" y="94.5">Costs </tspan>
+                    <tspan x="43.342806" y="124.5">go low</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

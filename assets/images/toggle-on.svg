@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="17px" viewBox="0 0 26 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>00 Global / Iconos / Toggle ON</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-Global-/-Iconos-/-Toggle-ON">
+            <g id="Misc/Rounded-Checkbox" transform="translate(6.000000, 0.000000)"></g>
+            <rect id="Rectangle" fill="#3DD4B0" x="0" y="0" width="25.3701172" height="17" rx="8.5"></rect>
+            <g id="Group" transform="translate(9.884277, 1.500000)" fill="#FAFAFB">
+                <circle id="Background" cx="7" cy="7" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

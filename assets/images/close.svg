@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Button / X</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Button-/-Close" transform="translate(-59.000000, -3.000000)" stroke="#616161">
+            <g id="Group" transform="translate(60.059326, 3.242920)">
+                <line x1="0.345575242" y1="0.345575242" x2="14.1685849" y2="14.1685849" id="Line"></line>
+                <line x1="14.1685849" y1="0.345575242" x2="0.345575242" y2="14.1685849" id="Line"></line>
+            </g>
+        </g>
+    </g>
+</svg>
